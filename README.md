@@ -1,5 +1,9 @@
 # International-Investments:
 
+This project is part of 'Operations Research' course at 'The University of Illinois Chicago' Spring 2018. The case focuses on 
+optimizing investment policy of Rosen. The case has been taken from the book, 'Case 13.2: Hilier & Leiberman, Introduction to Operations Research, New York, NY: McGraw Hill, Ed. 10th 2015.
+
+This project was my approach. It could have been better, or different ways to implement the same strategy. There maybe a few mistakes which are unidentified.
 
 (PLEASE FIND THE TABULAR INFORMATIONS IN THE 'SCREENSHOT' FOLDER)
 
