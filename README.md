@@ -6,16 +6,6 @@ Problem Introduction:
 Charles Rosen, a financial analyst in Germany, comes across a folder containing details of an investment he made upon his graduation four years ago. The investment was of 30,000 German Marks (DM) as B-Bonds. These bonds were to mature in 7 years from the time he invested. The bonds attracted lucrative interests which increased by the year and were compounded annually. Charles had an option of withdrawing the bonds whenever he wished and did not sell any bonds for the first four years. However, last year, the German federal government had announced a capital gains tax on interest income. It was designated that the first DM 6,100 a single individual earns in interest per year would be tax-free. Any interest income beyond DM 6,100 would be taxed at a rate of 30 percent. Because of the new tax implemented last year, Charles has decided to re-evaluate the investment. He knows that the new tax affects his potential return on the B-Bonds, but he also knows that most likely a strategy exists for maximizing his return on the bonds. He might be able to decrease the tax he has to pay on interest income by selling portions of his bonds in different years. Charles considers his strategy viable because the government requires investors to pay taxes on interest income only when they sell their B-Bonds. Also, if Charles decides to sell his bonds, his alternative investment opportunities are limited. He contemplated investing in Certificate Deposits (CDs) which would pay him 4.0 percent interest. Finally, Charles concludes that he would make all his transactions on December 31, regardless of the year. Also, since he intends to attend business school in the United States in the fall of the seventh year and plans to pay his tuition for his second, third, and fourth semester with his investment, he does not plan to keep his money in Germany beyond December 31 of the seventh year. Below is the interest rate in 7 years:
 
 
-Y DM 100  An. %  Interest% DM 30,000
-1	107.50	7.50%	 7.50%	    32250.00
-2	116.64	8.00%	 8.50%	    34991.25
-3	126.55	8.17%	 8.50%	    37965.51
-4	137.62	8.31%	 8.75%	    41287.49
-5	150.01	8.45%	 9.00%	    45003.36
-6	163.51	8.54%	 9.00%	    49053.66
-7	178.23	8.61%	 9.00%	    53468.49
-
-
 We analysed the different scenarios under which Charles might have to make investment decisions starting with the basic condition where he just withdraws the entire DM 30,000 at the end of the 7th year without making any further investment. Then we proceed to the case where he invests in CDs. We then, analysed situations where he invests DM 50,000 instead of DM 30,000. Another interesting situation was the increased exemption on the tax-free amount for married couples. We analysed the case where he plans to marry on the fifth of the investment.
 
 
