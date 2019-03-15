@@ -37,9 +37,13 @@ Properties:
 These are some properties that characterize metaheuristics: 
 
 • Metaheuristics are strategies that guide the search process. 
+
 • The goal is to efficiently explore the search space in order to find near–optimal solutions. 
+
 • Techniques which constitute metaheuristic algorithms range from simple local search procedures to complex learning processes.
+
 • Metaheuristic algorithms are approximate and usually non-deterministic. 
+
 • Metaheuristics are not problem-specific.
 
 
